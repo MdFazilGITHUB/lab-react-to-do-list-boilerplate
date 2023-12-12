@@ -1,0 +1,37 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body{
+  padding: 100px;
+}
+
+
+h1{
+  font-size: 50px;
+}
+input{
+  padding: 20px;
+  width: 600px;
+  margin-right: 10px;
+}
+
+button{
+  padding: 20px;
+  width: 200px;
+}
+
+.space{
+  margin-top: 10px;
+}
